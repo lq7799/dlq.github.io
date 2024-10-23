@@ -1,2 +1,12 @@
 name: 龙奇课题组 Long Research Group
-url:https://dlq.github.io/
+url:https://lq7799.github.io/
+
+interests: [game, movie, music. basketball]
+
+navigation:
+  -title: 主页 Home
+   link:/
+  -title: 科研项目 Research
+   link:/
+  -title: 论文 Publications
+   link:/
